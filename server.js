@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // GANTI DENGAN USERNAME TIKTOK-MU (TANPA @)
-const tiktokUsername = "isidenganusernamemu"; 
+const tiktokUsername = "rivaldosidiqbalebale"; 
 
 let eventQueue = [];
 let tiktokLiveConnection = new WebcastPushConnection(tiktokUsername);
